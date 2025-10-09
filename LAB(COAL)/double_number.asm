@@ -29,6 +29,7 @@ main proc
      MOV DL,MSG2
      
      MOV AH,2
-     INT 21H
+     INT 21H 
+     
 main endp
 end main
